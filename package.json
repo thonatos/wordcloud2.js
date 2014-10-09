@@ -1,0 +1,27 @@
+{
+  "name": "wordcloud2",
+  "version": "0.0.0",
+  "description": "tag cloud/Wordle presentation on 2D canvas or HTML",
+  "keywords": ["tag cloud","word cloud"],
+  "homepage": "http://timdream.org/wordcloud2.js",
+  "author": "timdream",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thonatos/wordcloud2.js.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "wordcloud2.js",
+    "dependencies": {
+    },
+    "engines": {
+      "seajs": "2.3.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
